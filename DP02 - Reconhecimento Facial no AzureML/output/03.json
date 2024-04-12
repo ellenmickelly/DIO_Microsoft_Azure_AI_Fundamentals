@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "25660e72-d717-4fca-81b2-995cfe7a61b1",
+  "content-length": "145",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a man in a garment",
+    "confidence": 0.6893094182014465
+  },
+  "metadata": {
+    "width": 990,
+    "height": 600
+  }
+}
