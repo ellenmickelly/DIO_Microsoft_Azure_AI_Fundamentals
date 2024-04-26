@@ -1,5 +1,5 @@
 # Bootcamp Microsoft Azure AI Fundamentals - Desafios de Projeto
-<img src="imagem\1.jpeg" />
+<img src="imagem\01.jpeg" />
 
 ---
 ## Detalhes do Bootcamp
