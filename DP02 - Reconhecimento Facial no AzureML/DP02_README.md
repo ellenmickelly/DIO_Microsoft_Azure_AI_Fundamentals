@@ -45,7 +45,7 @@ Neste teste, foi colocada a imagem do The Flash para que reconheça o rosto e es
 
 <img src="output\01.png" /> <br>
 
-Para poder ver o resultado em JSON, clique <a href = "DP02 - Reconhecimento Facial no AzureML\output\01.json" >AQUI.</a> 
+Para poder ver o resultado em JSON, clique <a href = "output\01.json" >AQUI.</a> 
 
 
 ### Extract Text from Images
@@ -61,7 +61,7 @@ Neste teste, foi colocada uma imagem aleatória de passaporte e este foi o resul
 
 <img src="output\02.png" /> <br>
 
-Para poder ver o resultado em JSON, clique <a href = "DP02 - Reconhecimento Facial no AzureML\output\02.json" >AQUI.</a> 
+Para poder ver o resultado em JSON, clique <a href = "output\02.json" >AQUI.</a> 
 
 
 ### Add Captions to Images
@@ -77,7 +77,7 @@ Foi colocada a imagem do Thanos e este foi o resultado:
 
 <img src="output\03.png" /> <br>
 
-Para poder ver o resultado em JSON, clique <a href = "DP02 - Reconhecimento Facial no AzureML\output\03.json" >AQUI.</a> 
+Para poder ver o resultado em JSON, clique <a href = "output\03.json" >AQUI.</a> 
 
 
 
